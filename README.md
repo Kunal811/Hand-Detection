@@ -3,7 +3,7 @@
 This project is a basic hand detection project implemented in Python with OpenCV and Tensorflow. The result can be obtained is the following:
 
 
-
+![](hand.png)
 
 
 # Installation
